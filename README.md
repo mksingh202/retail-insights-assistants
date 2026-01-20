@@ -37,7 +37,7 @@ retail-insights-assistants
 ## Database Setup
 Open PostgreSQL and run these command:
 ```sql
-CREATE DATABASE retail;
+CREATE DATABASE retail_data;
 
 CREATE EXTENSION vector;
 
